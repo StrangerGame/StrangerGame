@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StrangerGame
-- 👀 I’m interested in devv
+- 👀 I’m interested in dev
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on projjects
 - 📫 How to reach me github
